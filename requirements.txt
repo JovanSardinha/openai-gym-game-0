@@ -1,0 +1,11 @@
+box2d-py==2.3.1
+-e git+https://github.com/openai/gym@2933a95ec5cc7efd282ed793d5efd6af6f2ce00f#egg=gym
+Keras==1.1.0
+numpy==1.11.2
+pyglet==1.2.4
+PyOpenGL==3.1.0
+PyYAML==3.12
+requests==2.11.1
+scipy==0.18.1
+six==1.10.0
+Theano==0.8.2
